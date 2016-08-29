@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Lab1Assignment</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/expected1.txt</name>
+			<type>1</type>
+			<location>C:/Users/Eric/Desktop/expected1.txt</location>
+		</link>
+		<link>
+			<name>src/input1.txt</name>
+			<type>1</type>
+			<location>C:/Users/Eric/Desktop/input1.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
